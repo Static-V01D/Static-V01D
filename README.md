@@ -1,4 +1,4 @@
-<img src="ChatGPT Image May 6, 2025, 12_32_11 PM.png" alt="GitHub Banner" width="100%" />
+<img src="Github_Banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Luis Cátala, a Puerto Rican Game & Web Developer 👋🏼:
 🛜 Currently studying Computer Science at Interamerican University of Puerto Rico
