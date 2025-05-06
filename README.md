@@ -44,9 +44,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Static-V01D/Static-V01D/output/snake.svg" alt="Snake animation" />
 
 ###
 <picture>
