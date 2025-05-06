@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Luis, a Puerto Rican Web Developer 👋🏼:
+# Hello World!, I'm Luis Cátala, a Puerto Rican Game & Web Developer 👋🏼:
 🛜 Currently studying Computer Science at Interamerican University of Puerto Rico
 
 ###
