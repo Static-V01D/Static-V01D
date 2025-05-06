@@ -3,9 +3,6 @@
 # Hello World!, I'm Luis, a Puerto Rican Web Developer 👋🏼:
 🛜 Currently studying Computer Science at Interamerican University of Puerto Rico
 
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
