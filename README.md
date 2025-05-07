@@ -3,6 +3,8 @@
 # Hello World!, I'm Luis Cátala, a Puerto Rican Game & Web Developer 👋🏼:
 Currently studying Computer Science at Interamerican University of Puerto Rico
 
+Game & Web Developer. I'm a passionate developer with a strong foundation in both game development and web technologies. My experience spans across engines like Unity and Unreal Engine, where I specialize in C#, C++, and visual scripting to build immersive, interactive experiences. On the web side, I develop responsive and visually engaging websites using HTML, CSS, and JavaScript frameworks. I'm skilled in managing game assets, implementing gameplay systems, and optimizing visual effects, making me a versatile creator across both digital spaces. I also use Git and GitHub for version control and collaborative development, ensuring efficiency and code quality in every project.
+
 ###
 
 <div align="center">
