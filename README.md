@@ -1,5 +1,7 @@
 <!--<img src="Github_Banner.PNG" alt="GitHub Banner" width="100%" /> -->
 
+Programmer | Game Developer | Web Developer
+
 # Hello World!, I'm Luis Cátala, a Puerto Rican Game & Web Developer 👋🏼:
 Currently studying Computer Science at Interamerican University of Puerto Rico
 
