@@ -2,7 +2,7 @@
 
 <h1> Programmer | Game Developer | Web Developer</h1>
 
-<h2> Hello World!, I'm Luis Cátala, a Puerto Rican Game & Web Developer 👋🏼:</h2>
+<h2> Hello World!, I'm Luis Cátala, a Puerto Rican Game & Web Developer :</h2>
 
 Currently studying Computer Science at Interamerican University of Puerto Rico.
 
